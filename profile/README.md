@@ -1,8 +1,3 @@
-# NYT87
-
-![nyt87 log](logo-icon.png)
-![nyt87 text](logo-text.png)
-
 Remote software development studio focused on shipping reliable digital products.
 
 ## What we do
