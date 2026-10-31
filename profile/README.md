@@ -1,3 +1,10 @@
+<a href="https://nyt87.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NYT87/.github/main/profile/assets/header-dark.png">
+    <img alt="NYT87, remote software studio: designing and engineering products that survive real-world scale." src="https://raw.githubusercontent.com/NYT87/.github/main/profile/assets/header-light.png" width="100%">
+  </picture>
+</a>
+
 Remote software studio for product, backend and infrastructure work: designing and engineering products that survive real-world scale.
 
 ## What we do
