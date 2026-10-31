@@ -17,7 +17,7 @@ Remote software studio for product, backend and infrastructure work: designing a
 - **OpenTrack Viewer**: [project page](https://nyt87.github.io/projects/opentrack-viewer/) · [live app](https://nyt87.github.io/opentrack-viewer/) · [NYT87/opentrack-viewer](https://github.com/NYT87/opentrack-viewer)
   - Open source · Web app · PWA
   - A privacy-first, client-side web app and PWA for viewing activity tracking files, with everything processed locally in the browser.
-- **Bongsu**: [project page](https://nyt87.github.io/projects/bongsu/) · [live app](https://nyt87.gitlab.io/bongsu/) · [gitlab.com/nyt87/bongsu](https://gitlab.com/nyt87/bongsu)
+- **Bongsu**: [project page](https://nyt87.github.io/projects/bongsu/) · [project site](https://nyt87.gitlab.io/bongsu/) · [gitlab.com/nyt87/bongsu](https://gitlab.com/nyt87/bongsu)
   - Open source · Self-hosted · Web app
   - A self-hosted publishing scheduler for creators: Instagram and YouTube Shorts in one queue, where agents can plan but only you approve and publish.
 - **Agents PP**: [project page](https://nyt87.github.io/projects/agents-pp/) · [NYT87/agents-pp](https://github.com/NYT87/agents-pp)
